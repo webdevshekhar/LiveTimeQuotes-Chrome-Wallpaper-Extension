@@ -16,7 +16,7 @@ This Chrome extension transforms your new tab page into an inspiring and functio
     - Extract the contents to a local directory.
 
     ```bash
-    git clone [https://github.com/webdevshekhar/LiveTimeQuotes-Chrome-Wallpaper-Extension.git](https://github.com/webdevshekhar/LiveTimeQuotes-Chrome-Wallpaper-Extension.git)
+    git clone https://github.com/webdevshekhar/LiveTimeQuotes-Chrome-Wallpaper-Extension.git
     ```
 
 2. **Load in Chrome:**
