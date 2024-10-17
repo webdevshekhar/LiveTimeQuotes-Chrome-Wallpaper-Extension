@@ -16,7 +16,7 @@ This Chrome extension transforms your new tab page into an inspiring and functio
     - Extract the contents to a local directory.
 
     ```bash
-    git clone [https://github.com/yourusername/LiveTimeQuotes-Chrome-Wallpaper-Extension.git](https://github.com/yourusername/LiveTimeQuotes-Chrome-Wallpaper-Extension.git)
+    git clone [https://github.com/webdevshekhar/LiveTimeQuotes-Chrome-Wallpaper-Extension.git](https://github.com/webdevshekhar/LiveTimeQuotes-Chrome-Wallpaper-Extension.git)
     ```
 
 2. **Load in Chrome:**
@@ -49,14 +49,10 @@ This Chrome extension transforms your new tab page into an inspiring and functio
 3. **Share Your Extension:**
     - Upon approval, you'll receive a notification and a unique link for users to install directly from the Chrome Web Store.
 
-## Contributing
-
-We welcome contributions to improve LiveTimeQuotes! If you have ideas or want to fix bugs, feel free to fork the repository on GitHub and submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 
-For any questions or feedback about LiveTimeQuotes, reach out to [your email address].
+For any questions or feedback about LiveTimeQuotes, reach out to pandeyshekhar47@gmail.com.
