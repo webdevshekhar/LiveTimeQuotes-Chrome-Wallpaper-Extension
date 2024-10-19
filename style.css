@@ -8,7 +8,7 @@ body {
 }
 
 #wallpaper {
-    background-image: url('jarvis3.jpg');
+    background-image: url("assets/background.jpg");
     /* Your custom background */
     background-size: cover;
     background-position: center;
